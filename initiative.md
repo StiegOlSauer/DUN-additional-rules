@@ -3,11 +3,11 @@
 
 ## Preface
 
-Some parties, especially coming from similar games or TTRPGs, may prefer non-fixed initiative. This mini-ruleset aims to bring more variety to battles in dungeon rooms, but preserving the balance and elegance of DUN rules.
+Some parties, especially coming from similar games or TTRPGs, may prefer non-fixed initiative. This mini-ruleset aims to bring more variety to battles in dungeon rooms, but preserve the balance and elegance of Dungeon Universalis rules.
 
-Rules will remain the same for sections with Champion or Leader creature representing their command abilities over lower rank ones. In other cases, creatures and heroes will act according to their positions on the initiative track. This represents lower organization level of a creatures without a commander. They may act in non-optimal order with reduced effectiveness. But when commanding creature is on a battlefield, minions will follow some tactics (from original DUN rules).
+Initiative rules remain the same for sections where Champion or Leader is spawned representing their command abilities over lower ranked creatures. In other cases, creatures and characters will act according to their positions on the initiative track. This represents lower organization level of creatures without a commander. They may act in non-optimal order with reduced effectiveness. But when commanding creature is on a battlefield, minions will employ some tactics (from original DUN rules).
 
-## How initiative changed
+## New approach to initiative
 
 ### Enemy spawned in a revealed room
 
