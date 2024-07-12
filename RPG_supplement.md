@@ -30,6 +30,14 @@ Before diving into skills and tests, here is short glossary of new terms that yo
 
 **Game master** - Dark Player himself or DP conductor who hosts the adventure and has the final vote. Will be referred as GM.
 
+## Charisma attribute
+
+Dungeon Universalis set of attributes allows limited social interaction, so in order to expand social gameplay an additional attribute is added to a standard set - Charisma. It is "virtual" attribute, which is not developed on its own, but calculated as an average (rounded down) of Intelligence and Courage. 
+
+At any time when Charisma is required for test or skill reference, players may calculate it from the attributes of their characters. Charisma represents natural charm of a character, NPC or creature but is not described as sole physical attractiveness, but also may find origins in brutality, manners, speech and any other source depending on situation and audience. So even not very smart orkish barbarian may charm when put into right context, it is up to GM to create situations around this.
+
+While charisma is calculated "runtime" and thus automatically improves with increase of Intelligence or Courage, it might also be boosted by items like fancy costumes and jewelry.
+
 ## Secondary skills
 
 As described in "RPG mode" chapter of DUN rules, when playing that mode, *secondary skills* could be assigned to a character. Players use their imagination and their characters' lore to create the skills to their liking, so there's no list of available pre-defined skills, it is all up to characters and GM. What is a secondary skill and how does it work will be described in detail in below articles.
@@ -147,13 +155,13 @@ Aforementioned Dex. and Perc. attributes use the same complexity table as skills
 
 Every 6 or 1 rolled on a dice during test roll has a special meaning for GM. Double 6's do not trigger instant success (it is still required that test result is equal or exceed test pass value), but indicates that positive effects for tested character are maximized in case of successful test and minimized in case of test failure. Here's handy table:
 
-|             Result             |                                 Test succeeded                                 |                                Test failed                               |
-|:------------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
-| Significant success (double 6) |                  Positive effects are substantially increased                  |             There are very little repercussions of a failure             |
-| Partial success (single 6)     |                  Positive effects are slightly more expressed                  |                 Some major negative effect is not applied                |
-| Neutral result (6 and 1)       |                        Usual effect of a successful test                       |                       Usual effect of a failed test                      |
-| Partial failure (single 1)     |              Benefits of a successful test are slightly decreased              |                     More negative effects are applied                    |
-| Significant failure (double 1) | One or more major negative effects are applied  the same as in case of failure | All negative effects are applied, result cannot be re-rolled via Fortune |
+|             Result             |                                 Test succeeded                                     |                                Test failed                               |
+|:------------------------------:|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| Significant success (double 6) |                  Positive effects are substantially increased even with unpredictable, unusual results | There are very little repercussions of a failure, even some benefits could be granted  |
+| Partial success (single 6)     |                  Positive effects are slightly more expressed                      |                 Some major negative effect is not applied                |
+| Neutral result (6 and 1)       |                        Usual effect of a successful test                           |                       Usual effect of a failed test                      |
+| Partial failure (single 1)     |              Benefits of a successful test are slightly decreased                  |                     More negative effects are applied                    |
+| Significant failure (double 1) |               It is not possible to pass a test with double 1's                    | Strange, unexpected twist of negative effects strikes a character, result cannot be re-rolled via Fortune |
 
 
 ### Cross-skill tests
