@@ -19,7 +19,7 @@ When new room with enemies is revealed :
 
 2. All remaining player-controlled characters perform initiative rolls (not opposed ones, just roll 2d6, add perception modifier and all bonuses from skills, remember the result)
 
-3. Split enemy creatures into groups of convenient size depending on particular situation and creatures composition (i.e. by creature weapon type or by creature type itself). Then Dark Player performs an initiative roll for each group same way characters did before 
+3. Split enemy creatures into groups of convenient size depending on particular situation and creatures composition (i.e. by creature weapon type or by bestiary cards). Then Dark Player performs an initiative roll for each group same way characters did before 
 
 	*Example 1: if there are skeletons and zombies in the room and groups have been created based on a creature type, then perform one roll for skeleton type and one for zombie*
 
@@ -58,3 +58,11 @@ If Leader or Champion creature appeared on the battlefield, then all creatures s
 	* If **characters** won the initiative - newly appeared creatures are activated according their positions on the initiative track 
 
 4. Proceed with activations according to the initiative track
+
+### Optional rule - variable initiative
+
+For even more dynamics and fluidity on the battlefield, one may add the following rule to the above ones.
+
+If a creature is hit in combat, it decreases its initiative by one, but no more than once per round. So multiple hits in one round still lower creature's initiative by 1 total.
+
+If a creature kills or knocks out another creature, it increases the initiative by 1. Same rule for multiple kills counting as one initiative increase is also applied here.

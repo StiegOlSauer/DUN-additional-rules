@@ -44,3 +44,5 @@ Feat points from one attribute cannot be used to alter results of a test/roll wh
 
 ## Replenishment
 Feat points are restored as per rulebook.
+
+### TODO: double 1s grant feat point (any spent or, if there are no spent F.P., to the stat whic failed the test. Lasts till the end of the section (dungeon or adventure) or until used)
