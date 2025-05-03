@@ -31,15 +31,15 @@ The last chapter among ones dedicated to game mechanics is about magic in advent
 
 And the final chapter of the supplement aims to help in adapting adventures from other TTRPGs for DUNRPG gameplay.
 
-## Terminology
+### Key Terms
 
 Before diving into rules themselves, here is short glossary of new terms that you will find in the below rules.
 
-**Combat** — any combat-related rules and mechanics including dedicated attributes and modifiers described in the DUN rulebook
+**Combat** — the existing DUN combat subsystem (attributes, actions, modifiers) used without change as described in the DUN rulebook.
 
-**Dungeon** — rules and mechanics related to venturing through a quest (in DUN terms) or random encounter map
+**Dungeon gameplay** — rules and mechanics related to venturing through a quest (in DUN terms) or random encounter map
 
-**Adventure [gameplay/skills/experience]** — this includes interactions on a continent map and non-combat encounters
+**Adventure [gameplay/skills/experience]** — interactions in non-combat encounters and on a continent map
 
 **Game master** - Dark Player himself or DP conductor who hosts the adventure and has the final vote. Will be referred as GM.
 
@@ -47,37 +47,37 @@ Before diving into rules themselves, here is short glossary of new terms that yo
 
 Elf-forester Taeral and catfolk-assassin Aki find themselves cornered in a hall 15 feet underground in an ancient burial mound. They stand nervously in front of heavy, weathered, metal-reinforced doors, surrounded by 2 capable Orc fighters and a fearsome warlord who apparently tracked their little endeavor in hope to get his hands on whatever treasures lie behind the doors.
 
-"You’re getting us all killed,"— shouts Aki urgently, mustering her courage to persuade the warlord. — "It won’t work that way!"
+"You’re getting us all killed," — shouts Aki urgently, mustering her courage to persuade the warlord. — "It won’t work that way!"
 
 A roughly made altar-like table escalates from the stone floor of the mound hall with two round holes size of medal are blackening in the altar lid. The warlord is about to start smashing it with a warhammer, but that is going to be a big mistake — Taeral had previously sensed residual magic emanating from the altar. His knowledge allowed him to conclude that thing is opened only by feeding it with enchanted coins dating the time this mound was built. For other things it would be a trap which Aki detected as the well hidden trapdoors in the ceiling.
 
-"Of course it will!"— Orc makes a good swing — "It always does."
+"Of course it will!" — Orc makes a good swing — "It always does."
 
 The sound of an impact reflected from stone walls of a hall was so loud even the Orc fighters instinctively shudder. But while echo was still in the air, the trapdoor in the ceiling opened freeing a torrent of sand on the altar and the warlord. When dust started to settle, he seemed more surprised than hurt:
 
 "Ha! Just handful of sand and dust? They didn't build it to last, did they?" — shouted the Orc trying to instill courage in his shaken subordinates.
 
-"It is not a sand"— noted Taeral covering nose and mouth with his palm — "It's an ash. And it starts moving!"
+"It is not a sand" — noted Taeral covering nose and mouth with his palm — "It's an ash. And it starts moving!"
 
 Piles of ash started trembling, crackling and raising clouds of dust into the air immediately consuming confused warlord. Combining their efforts Aki and Taeral pushed the closest fighter into the ash cloud and bursted out of the hall. Pursued by terrifying screams they've reached the rope hanging from a patch of the sky on 15 ft. height ceiling. That is when they found they are not alone. The second Orc fighter was also good at sprinting and was about to attack. Aki was defenseless climbing the rope, and Taeral got to stop the Orc! While making his final steps to the escape, he combined the only elements came to his mind — Light and Stun — and bursted approaching fighter with a bright flash. Using the moments of confusion Taeral grabbed the rope and hurried upwards following Aki.
 
 Hours later on the road to the town of Verneck adventurers were planning their next step. Fortunately for them a high-ranked merchant — distant offspring of a noble, buried in that mound — still lives in his family mansion in Verneck. It is time to pay him a visit.
 
-### Role of Dark Player (Game Master)
+### Role of The Dark Player (Game Master)
 
 The Dark Player powers and responsibilities are much expanded in Adventure mode. Dark Player role is now equivalent to a Game Master in traditional TTRPGs and further in this document Dark Player and Game Master will be used as equivalents. To start playing as a Game Master prepare to:
 
-	* Onboard players by communicating new possibilities and limitations, helping with creating or importing characters
+    - **Onboard** players by communicating new possibilities and limitations, helping with creating or importing characters
 
-	* Pick or improvise an adventure suitable for your party
+    - *Prepare** or improvise an adventure suited to the party
 
-	* Describe the game world to the players and how their actions change it
+    - **Describe** the game world to the players and how their actions change it
 	
-	* Control NPCs (friends and adversaries) and monsters during encounters
+    - **Portray** NPCs (friends and adversaries) and control monsters during encounters
 
-	* Facilitate the fun and be an ally for your players
+    - **Facilitate** the fun and be an ally for your players
 
-There are many books dedicated to the art of Game Mastery and this document cannot be your guide in this domain. If you are new to this, I recommend starting with books "Return of the Lazy Dungeon Master" by Michael E. Shea, "Mothership: Warden's Operations Manual" by Sean McCoy and to dive a bit deeper — "The Game Master’s Handbook of Proactive Roleplaying" by Jeff Ashworth.
+There are many books dedicated to the art of Game Mastery and this document does not aim to be comprehensive guide in this domain. Recommended reading for new GMs: "Return of the Lazy Dungeon Master" by Michael E. Shea, "Mothership: Warden's Operations Manual" by Sean McCoy and to dive a bit deeper — "The Game Master’s Handbook of Proactive Roleplaying" by Jeff Ashworth.
 
 ## Charisma attribute
 
@@ -87,7 +87,7 @@ Charisma is "virtual" attribute, which is not developed on its own, but calculat
 
 ## Secondary Skills
 
-As described in "RPG mode" chapter of DUN rules, when playing that mode, *Secondary Skills* could be assigned to a character. Players use their imagination and their characters' lore to create the skills to their liking, so there's no list of available pre-defined skills, it is all up to players and GM. What is a Secondary Skill and how does it work will be described in detail in below articles.
+As described in "RPG mode" chapter of DUN rules, when playing that mode, *secondary skills* could be assigned to a character. Players use their imagination and their characters' lore to create the skills to their liking, so there's no list of available pre-defined skills, it is all up to players and GM. What is a secondary skill and how does it work will be described in detail in below articles.
 
 ### Note for GM: design intentions
 
@@ -99,15 +99,15 @@ The system encourages players to use very specialized skills with concrete field
 
 ### Skills and Skill Domains
 
-*Secondary Skill* describes the particular, very specialized set of practical, active abilities of a game character gained via profession, hobby, life experience or innate finesse. In this supplement *Secondary Skills* do not cover combat applications and should be tied only to non-combat behaviors. 
+*Secondary skill* describes the particular, very specialized set of practical, active abilities of a game character gained via profession, hobby, life experience or innate finesse. In this supplement *Secondary skills* do not cover combat applications and should be tied only to non-combat behaviors. 
 
-Almost any imaginable ability could find representation as a character's *Secondary Skill*. But truly useful and suitable skill should be continuation of character lore and reflect its life experience in the world.
+Almost any non‑combat ability can be represented as a Secondary Skill. But truly useful and suitable skill should be continuation of character lore and reflect its life experience in the world.
 
 Skill mastery also has numeric representation: from 0 of *Untrained* skill to 3, possessor of which is considered a world-class Master in the field of application. 1 is considered *Trained* and 2 — *Professional* skills.
 
 Each Skill is tied to one of the character's attributes signifying that it contributes the most in the skill development and application.
 
-*Secondary Skills* are closely tied to *Skill Domains*. Each Domain represents a broad field of abilities and describes the knowledge of character about the different aspects of the world. Domain usually links to a several skills in this sense acting as a category for them. Degree and completeness of Domain knowledge is expressed by numerical value for each Domain ranging from 0 to 3. This way, it contributes in skill challenges character may face during adventures.
+*Secondary skills* are closely tied to *Skill Domains*. Each Domain represents a broad field of abilities and describes the knowledge of character about the different aspects of the world. Domain usually links to a several skills in this sense acting as a category for them. Degree and completeness of Domain knowledge is expressed by numerical value for each Domain ranging from 0 to 3. This way, it contributes in skill challenges character may face during adventures.
 
 Relationships between Domains and Skills could be illustrated by the following examples:
 
@@ -142,21 +142,21 @@ Obtaining of *Secondary Skills* occurs during creation of new or importing pre-d
 
 Each Skill is originates from one of character non-combat attributes which may have slightly different meaning in DUNRPG:
 
-    **Movement** is a speed, reaction and reflexes of a character
-
-    **Strength** — physical might and raw muscle power
-
-    **Agility** — motor skills and body control in motion
-
-    **Intelligence** — mental acuity, reasoning, memory and intellectual resourcefulness
-
-    **Courage** — discipline, valor, control over emotions
-
-    **Charisma** — communication, improvisation, empathy and strength of personality
-
-    **Perception** — reading and interpreting signs by which world communicates with those who listen
-
-    **Dexterity** — sleight of hand, fine motor control
+	**Movement** is a speed, reaction and reflexes of a character
+	
+	**Strength** —  physical might and raw muscle power
+	
+	**Agility** — motor skills and body control in motion
+	
+	**Intelligence** — mental acuity, reasoning, memory and intellectual resourcefulness
+	
+	**Courage** — discipline, valor, control over emotions
+	
+	**Charisma** — communication, improvisation, empathy and strength of personality
+	
+	**Perception** — reading and interpreting signs by which world communicates with those who listen
+	
+	**Dexterity** — sleight of hand, fine motor control
 
 Assigning of Secondary Skills is based on a character attributes. For each attribute, a character gains amount of *Secondary Skill Points* equal to:
 
@@ -254,14 +254,14 @@ Magic Lore           0
 	Light (int)      1
 
 Nature                     0
-	Beast Taming (courage) 1	
-```* 
+	Beast Taming (courage) 1
+```*
 
-### Skill and Domain mastery improvement
+### Skill mastery and Domain knowledge improvement
 
 Domains and Skills masteries are independent from each other and are improved differently.
 
-Domain benefits from widening and deepening its scope of knowledge. Domain mastery automatically improves between adventuring sessions when sum of skill masteries within the domain reaches 3, 7 and 11 points to achieve 1, 2 and 3 level of mastery accordingly. Each level of mastery replaces modifier from the previous level. Third level of mastery is final, it is not possible to have Domain mastery modifier higher than 3.
+Domain benefits from widening and deepening its scope of knowledge. domain knowledge automatically improves between adventuring sessions when sum of skill masteries within the domain reaches 3, 7 and 11 points to achieve 1, 2 and 3 level of mastery accordingly. Each level of mastery replaces modifier from the previous level. Third level of mastery is final.
 
 Characters can improve mastery of already assigned skills and assigning new ones at the cost of *Adventure Experience Points* (abbreviated as **AXP**). This is a special type of experience granted in adventure sessions which could be used only for developing Secondary Skills.
 
@@ -285,15 +285,15 @@ Achieving 3rd level of mastery may require a Masterwork in addition to spending 
 	
 	* notable deed that benefited character or the party 
 
-When pre-requisites are fulfilled and Secondary Skill Points are spent, character must pass an Intelligence test with Difficulty level of **7 + desired mastery value** of a Skill (Tests are described in further chapters). Domain mastery decreases the Difficulty, help from other characters or NPCs and usage of any useful assets are allowed. Re-rolls via Fortune points are not allowed, so the character has only one attempt for each Skill they aim to improve.
+When pre-requisites are fulfilled and Secondary Skill Points are spent, character must pass an Intelligence test with Difficulty level of **7 + desired mastery value** of a Skill (Tests are described in further chapters). Domain knowledge decreases the Difficulty, help from other characters or NPCs and usage of any useful assets are allowed. Re-rolls via Fortune points are not allowed, so the character has only one attempt for each Skill they aim to improve.
 
-If test is passed new mastery level of a Skill is noted on a character sheet. Domain mastery could also be improved if requirements are met after gaining a Skill mastery. In case of test failure, Skill should be marked on a character sheet, so after the next session, player must make an another attempt of improving it for free (without spending Secondary Skill Points).
+If test is passed new mastery level of a Skill is noted on a character sheet. Domain knowledge could also be improved if requirements are met after gaining a Skill mastery. In case of test failure, Skill should be marked on a character sheet, so after the next session, player must make an another attempt of improving it for free (without spending Secondary Skill Points).
 
 When all improvement attempts are made and results noted on a character sheet, all markings from Skill Domains should be erased. Only skills which improvement attempts have failed may carry individual marks between sessions.
 
 #### Assigning new skill
 
-Characters may spend Secondary Skill Points on assigning new Skill to existing or new Domain. After creating a Skill as described in a previous chapter, character must pass an Intelligence test with Difficulty of **7 + 1** (counting for mastery level of a new Skill). Domain mastery decreases the Difficulty, help from other characters or NPCs and usage of any useful assets are allowed. Re-rolls via Fortune points are not allowed. Character may assign only one Skill and have a single attempt to do so.
+Characters may spend Secondary Skill Points on assigning new Skill to existing or new Domain. After creating a Skill as described in a previous chapter, character must pass an Intelligence test with Difficulty of **7 + 1** (counting for mastery level of a new Skill). Domain knowledge decreases the Difficulty, help from other characters or NPCs and usage of any useful assets are allowed. Re-rolls via Fortune points are not allowed. Character may assign only one Skill and have a single attempt to do so.
 
 In case of successful test, new Skill and new Domain are noted on a character sheet. New Skill is assigned with mastery level 1, it could be further improved only after next session. If test was failed, Secondary Skill Point must be converted back to AXP which cannot be used for other improvements until next session.
 
@@ -418,7 +418,7 @@ Characters may decrease the Difficulty by applying Skill masteries, proper tools
 
 	* Skill mastery decreases Difficulty by its value
 	
-	* Domain mastery decreases Difficulty by its value
+	* Domain knowledge decreases Difficulty by its value
 	
 	* If none of the above applied, then Difficulty is decreased one step if challenged attribute is *particularly high*
 
@@ -487,7 +487,7 @@ GM determines amount of stages for the challenge based on the length of the acti
 
 Help is allowed for granting automatic success or decreasing difficulty for some of the test stages — up to GM discretion.
 
-*Example: Taeral wants to reach a balcony on a second floor of a mansion by climbing a wall while patrolling guard is looking other direction. Shara is ready to give Taeral a boost. GM announces a multi-stage Climbing (Dex) test and determines Difficulty of the test as Hard (time constraints, walls are mostly flat with little decorations that can support elf's weight) with 4 stages (jump to grab an ornament between floors, pull up to the second floor, reach balcony, vault over the railing). Fortunately, Taeral grew up in a forest where he mastered climbing to level 2 and has 1 level of Athletics Domain mastery, so the final Difficulty is reduced from Hard (6) to Regular (3), since no other factors contribute (Taeral has no suitable equipment). Taeral has agility value of 4, so he rolls 4 d6 and each result of 3+ will be considered successful. Shara's boost contributes one additional success. Dice rolled and results are 6-4-2-1 + automatic success from Shara. GM and Taeral collectively evaluate that boosted by Shara he easily covered distance to the balcony (6) and even when his hand slipped (1) from a decorative tile he did not make a noise, but upon reaching the balcony balustrade (4) the momentum was lost and he did not manage to vault over the railing (2). Taeral is left hanging from the balcony and will start the next attempt from there. He will roll 4 dice, but only one success will be needed to finish the test.*
+*Example: Taeral wants to reach a balcony on a second floor of a mansion by climbing a wall while patrolling guard is looking other direction. Shara is ready to give Taeral a boost. GM announces a multi-stage Climbing (Dex) test and determines Difficulty of the test as Hard (time constraints, walls are mostly flat with little decorations that can support elf's weight) with 4 stages (jump to grab an ornament between floors, pull up to the second floor, reach balcony, vault over the railing). Fortunately, Taeral grew up in a forest where he mastered climbing to level 2 and has 1 level of Athletics domain knowledge, so the final Difficulty is reduced from Hard (6) to Regular (3), since no other factors contribute (Taeral has no suitable equipment). Taeral has agility value of 4, so he rolls 4 d6 and each result of 3+ will be considered successful. Shara's boost contributes one additional success. Dice rolled and results are 6-4-2-1 + automatic success from Shara. GM and Taeral collectively evaluate that boosted by Shara he easily covered distance to the balcony (6) and even when his hand slipped (1) from a decorative tile he did not make a noise, but upon reaching the balcony balustrade (4) the momentum was lost and he did not manage to vault over the railing (2). Taeral is left hanging from the balcony and will start the next attempt from there. He will roll 4 dice, but only one success will be needed to finish the test.*
 
 #### Tools and ways to avoid the challenge
 
@@ -515,7 +515,7 @@ Every 6 or 1 rolled on a dice during test roll has a special meaning for GM. Dou
 
 ### Help from others
 
-Other characters or NPCs may help challenged character if they physically present, have the capacity and qualification to support character's action. Qualification usually means that helping party possesses challenged skill or domain mastery not lower than 1 level of negative difference than tested character's mastery. Qualification might not be required if helping party have a good description of helping actions that do not involve challenged skill.
+Other characters or NPCs may help challenged character if they physically present, have the capacity and qualification to support character's action. Qualification usually means that helping party possesses challenged skill or Domain knowledge not lower than 1 level of negative difference than tested character's mastery. Qualification might not be required if helping party have a good description of helping actions that do not involve challenged skill.
 
 Help must be declared before any dice are rolled. Game Master decides how many helping PCs or NPCs are allowed to act, but it is usually limited to a single helper.
 
@@ -539,11 +539,11 @@ Use this list as a helper when resolving any challenges:
 
 		- increasing the Difficulty due to effects of situational modifiers
 		
-		- increasing or decreasing the Difficulty one step if challenged attribute value is lower/higher than Difficulty Level if character does not have challenged Skill or Domain mastery
+		- increasing or decreasing the Difficulty one step if challenged attribute value is lower/higher than Difficulty Level if character does not have challenged Skill or Domain knowledge
 
 		- decreasing the Difficulty on amount of steps equal to challenged Skill Mastery of the challenged character
 
-		- decreasing the Difficulty on amount of steps equal to challenged Domain mastery of the challenged character
+		- decreasing the Difficulty on amount of steps equal to challenged Domain knowledge of the challenged character
 
 		- decreasing the Difficulty as an effect from used tools, magic and positive situational effects
 
@@ -627,7 +627,7 @@ Any spell could be cast in any type of encounter as per original DUN rules. Howe
 
 In *adventure magic* spells are not statically written or memorized recipes, but combinations of effects, combined by a spellcaster. For this purpose any existing spell in DUN could be decomposed onto its building blocks called effects. Effect is a single functional element of the spell:
 
-	*Example 1: spell "Mind Burst" from the Lore of Mentalism consists of only one element - "damage against Intellect". However, this effect could be interpreted differently - from mild headache or clouded consciousness to unrecoverable damage to target's brain. 
+	*Example 1: spell "Mind Burst" from the Lore of Mentalism consists of only one element — "damage against Intellect". However, this effect could be interpreted differently — from mild headache or clouded consciousness to unrecoverable damage to target's brain. 
 	
 	Spell "Water whip" from the Lore of Water contains more elements: conjure and control a body of water to physically interact with objects: push (resisted by passing a Strength test), deal damage, knock down (negated by passing a Strength test)*
 
@@ -635,7 +635,7 @@ Each effect could be separated from the spell, re-interpreted to the spellcaster
 
 ### Magic skills
 
-In order to extract effects from DUN spells of a particular lore of magic, a character must possess a skill mastery in this lore. Domain for magic lore masteries acts differently from other Skill Domains — its knowledge level cannot be improved by any means. Instead, any AXP received for this Domain allows to mark Arcane (or any other magic-related) Domain and improve skills of that Domain per usual rules.
+In order to extract effects from DUN spells of a particular lore of magic, a character must possess a skill mastery in this lore. Domain for magic lore masteries acts differently from other skill domains — its knowledge level cannot be improved by any means. Instead, any AXP received for this Domain allows to mark Arcane (or any other magic-related) Domain and improve skills of that Domain per usual rules.
 
 Magic lore skills could be obtained by training with a more experienced spellcaster, but mainly by learning spells of  lore. When a character learns new magic lore (during character creation or further development) this character receives mastery of 1 of learned lore for free. If character already has a skill this lore in possession, its mastery is not improved. Learning 5 total spells of the lore improves skill mastery to 2 for free. In order to make a final improvement in skill mastery, it is required to learn a spell from the lore with Archmage requirements and spend AXP as usual.
 
@@ -649,7 +649,7 @@ Progression of lore skill mastery allows character:
 
 	* Detect magic effects, items, have better understanding of magic in the world
 	
-In addition to elements extracted from learned spells, a caster learns elements provided by magic lore skill mastery - these are called **Lore Elements**. Each level of each lore gives access to two elements applicable in adventure magic spells:
+In addition to elements extracted from learned spells, a caster learns elements provided by magic lore skill mastery — these are called **Lore Elements**. Each level of each lore gives access to two elements applicable in adventure magic spells:
 
 | Mastery |          Fire          |        Earth       |        Air       |       Water      |             Light            |       Blessings       |        Runic       |      Music      |
 |:-------:|:----------------------:|:------------------:|:----------------:|:----------------:|:----------------------------:|:---------------------:|:------------------:|:---------------:|
@@ -667,7 +667,7 @@ DUN limitations (p.38) are also applied to casting of Adventure spells: one of c
 
 Adventure magic spells are cast on the fly and does not have to be written. In order to cast an adventure spell character needs to:
 
-	* Pick up to *1 + highest lore skill mastery* amount of elements (note that domain mastery is not added to skill mastery in this case):
+	* Pick up to *1 + highest lore skill mastery* amount of elements (note that domain knowledge is not added to skill mastery in this case):
 
 		- extracting from DUN spells: up to lore skill mastery per spell
 
